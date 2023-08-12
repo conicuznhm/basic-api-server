@@ -14,6 +14,10 @@ func HandlePathError(err error,c echo.Context) {
 func UserRoutes(e *echo.Echo){
 	userGroup := e.Group("/user")
 	
-	userGroup.GET("/profile",controllers.GetProfile)
+	// fetch profile
+	userGroup.GET("/profile",controllers.GetAllProfile)
+	userGroup.GET("/profile/:id",controllers.GetProfile)
+
+	// error handle message
 	e.HTTPErrorHandler = HandlePathError
 }
