@@ -1,3 +1,7 @@
+github.com/conicuznhm/rcsdb v0.0.0-20230817013555-e6d1649f3bb0 h1:RPkq/mmed+BANGqj7jLFwJ4BqLVG1LzDcc1kDwX+/j0=
+github.com/conicuznhm/rcsdb v0.0.0-20230817013555-e6d1649f3bb0/go.mod h1:ICY/Apr12DBtmA32487kWF6KqF2SQZ0u8BtbymlAuRs=
+github.com/conicuznhm/rcsdb v0.1.0 h1:Q9QwO4DobY5Pim9r2ePzILcQC3u95bmp0hF3F3IIJcw=
+github.com/conicuznhm/rcsdb v0.1.0/go.mod h1:x2pIdNJtvfwJndb0HxlLdmhH0tIm2wH9DYFHI2ljdnQ=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/golang-jwt/jwt v3.2.2+incompatible h1:IfV12K8xAKAnZqdXVzCZ+TOjboZ2keLg81eXfW3O+oY=
